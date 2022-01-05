@@ -1,0 +1,24 @@
+```json
+{
+  "users": [
+    {
+      "name": "Elliot",
+      "type": "Reader",
+      "age": 23,
+      "social": {
+        "facebook": "https://facebook.com",
+        "twitter": "https://twitter.com"
+      }
+    },
+    {
+      "name": "Fraser",
+      "type": "Author",
+      "age": 17,
+      "social": {
+        "facebook": "https://facebook.com",
+        "twitter": "https://twitter.com"
+      }
+    }
+  ]
+}
+```
